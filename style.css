@@ -1,5 +1,7 @@
-.main {
-    background-color: darkgrey;
+.headers {
+    color: white;
+    background-color: black;
+    font-family: "Times New Roman", serif;
 }
 
 .subtitle {
