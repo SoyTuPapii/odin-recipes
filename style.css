@@ -1,20 +1,39 @@
 .headers {
     color: white;
     background-color: black;
+    padding: 20px;
     font-family: "Times New Roman", serif;
 }
 
 .subtitle {
     color: black;
-    background-color:rgb(255, 0, 0);
     font-size: large;
     font-weight: bold;
-    margin: 50px 1000px
+    margin: 20px auto;
+    height: 40px;
+    padding: 30px;
+    box-sizing: content-box;
+    text-align: center;
 }
 
 a {
     text-align: center;
     display: block;
-    padding: 30px;
-    margin-top: 50px;
+    margin-top: 500px;
+    border-style: solid;
+}
+.centered {
+    text-align: center;
+}
+
+.egg-background {
+    background-color: rgb(175, 135, 4);
+}
+
+.pork-background {
+    background-color: rgb(151, 4, 4);
+}
+
+.mac-background {
+    background-color: rgb(255, 238, 0);
 }
