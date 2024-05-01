@@ -1,7 +1,11 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
 .headers {
     color: white;
     background-color: black;
-    padding: 20px;
+    padding: 15px;
+    text-align: center;
     font-family: "Times New Roman", serif;
 }
 
@@ -36,4 +40,8 @@ a {
 
 .mac-background {
     background-color: rgb(255, 238, 0);
+}
+
+p {
+    margin: 24px auto;
 }
